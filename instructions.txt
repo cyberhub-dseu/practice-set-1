@@ -1,5 +1,5 @@
 #Use of command line is striclty reccomended
-#Use of ChatGPT, yotube and google is reccomended
+#Use of ChatGPT, youtube and google is reccomended
 
 
 
@@ -7,7 +7,7 @@ STEPS:
 1. Clone this repo
 2. You will find 3 practice questions in C, complete them
 3. Compile the source code using GCC
-4. Put the executable binaries into a separate folder named "SUBMISSION"
+4. Put the executable binaries into a new folder named "SUBMISSION"
 5. Use git from terminal to push this whole repo with answers to your own github
 
 
